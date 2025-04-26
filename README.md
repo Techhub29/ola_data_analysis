@@ -18,7 +18,7 @@ The goal is to comprehensively understand the ride data and identify key trends 
 -Dashboard Interaction <a href= "https://github.com/Techhub29/ola_data_analysis/blob/main/Ola%20powerBI.pbix">View Dashboard</a> 
 
  ## Segregation of the views:
- 1. Overall
+ 1. Overall--
  -Ride Volume Over Time
  -Booking Status Breakdown
  2. Vehicle Type
