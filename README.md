@@ -31,6 +31,12 @@ The goal is to comprehensively understand the ride data and identify key trends 
  -Cancelled Rides Reasons (Customer)
  -Cancelled Rides Reasons(Drivers)
 - Ratings.
- -Driver Ratings.
- -Customer Ratings.
+ -Driver Ratings
+ -Customer Ratings
+
+  ## Dashboard
+
+https://github.com/Techhub29/ola_data_analysis/blob/main/Screenshot%20overall.png
+
+  
 
