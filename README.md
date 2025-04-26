@@ -39,6 +39,8 @@ The goal is to comprehensively understand the ride data and identify key trends 
   ![Screenshot overall](https://github.com/user-attachments/assets/30700e7d-25d1-46ac-88aa-60b374e4298b)
   ![screenshot cancellation](https://github.com/user-attachments/assets/61f490f7-2f25-4058-9c9b-148e23bbcc9f)
 
+  
+
 
 
   
